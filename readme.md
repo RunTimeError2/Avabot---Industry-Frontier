@@ -18,7 +18,7 @@
 
 所有小组需要的文件将储存在这个仓库中
 
-我们的小组wiki主页在 http://toyhouse.cc:81/wiki/index.php/2018年秋-产业前沿/小组分工
+我们的小组wiki主页在 http://toyhouse.cc:81/wiki/index.php/未来阿凡达机器人（AVABOT）圈圈
 
 
 > If you do not know what you are going to see next, you probably have entered the wrong place
