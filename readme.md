@@ -18,6 +18,7 @@
 
 所有小组需要的文件将储存在这个仓库中
 
-我们的小组wiki主页在 http://toyhouse.cc:81/wiki/index.php/%E6%9C%AA%E6%9D%A5%E9%98%BF%E5%87%A1%E8%BE%BE%E6%9C%BA%E5%99%A8%E4%BA%BA%EF%BC%88AVABOT%EF%BC%89%E5%9C%88%E5%9C%88
+我们的小组wiki主页在 http://toyhouse.cc:81/wiki/index.php/未来阿凡达机器人（AVABOT）圈圈
+
 
 > If you do not know what you are going to see next, you probably have entered the wrong place
